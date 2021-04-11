@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: c6278f45dd0528f45a0dc5d329acc00e
+timeCreated: 1617976382
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 0000_Kitty_SKEL
+    100002: 0001_Kitty_SKEL
+    100004: Background
+    100006: Bip001
+    100008: Bip001_Head
+    100010: Bip001_L_Calf
+    100012: Bip001_L_Clavicle
+    100014: Bip001_L_Finger0
+    100016: Bip001_L_Foot
+    100018: Bip001_L_Forearm
+    100020: Bip001_L_Hand
+    100022: Bip001_L_HorseLink
+    100024: Bip001_L_Thigh
+    100026: Bip001_L_UpperArm
+    100028: Bip001_Neck
+    100030: Bip001_Pelvis
+    100032: Bip001_Ponytail1
+    100034: Bip001_R_Calf
+    100036: Bip001_R_Clavicle
+    100038: Bip001_R_Finger0
+    100040: Bip001_R_Foot
+    100042: Bip001_R_Forearm
+    100044: Bip001_R_Hand
+    100046: Bip001_R_HorseLink
+    100048: Bip001_R_Thigh
+    100050: Bip001_R_UpperArm
+    100052: Bip001_Spine
+    100054: Bip001_Spine1
+    100056: Bip001_Tail
+    100058: Bip001_Tail1
+    100060: Bip001_Tail2
+    100062: Bip001_Tail3
+    100064: Bone_Ear_L_01
+    100066: Bone_Ear_R_01
+    100068: Bone_Tongue_01
+    100070: Bone_Tongue_02
+    100072: Camera
+    100074: Cap_1
+    100076: Cap_1_2
+    100078: Cap_1_3
+    100080: Floor
+    100082: FLOOR___BACKGROUND
+    100084: Front_Of_Softbox
+    100086: Front_Of_Softbox_2
+    100088: FX_Bottom
+    100090: FX_Cetner
+    100092: FX_Hand_L
+    100094: FX_Hand_R
+    100096: FX_Top
+    100098: Kitty
+    100100: //RootNode
+    100102: Kitty_SKEL
+    100104: L_Eyeild_U_Bone
+    100106: Light
+    100108: Light_2
+    100110: Light_3
+    100112: Light_Vector
+    100114: OverHead_Softbox
+    100116: Plane
+    100118: R_Eyeild_U_Bone
+    100120: Render
+    100122: Softbox
+    100124: Softbox_1
+    100126: Softbox_2
+    100128: Softbox_Assembly
+    100130: Softbox_Assembly_2
+    100132: Softbox_Assembly_3
+    400000: 0000_Kitty_SKEL
+    400002: 0001_Kitty_SKEL
+    400004: Background
+    400006: Bip001
+    400008: Bip001_Head
+    400010: Bip001_L_Calf
+    400012: Bip001_L_Clavicle
+    400014: Bip001_L_Finger0
+    400016: Bip001_L_Foot
+    400018: Bip001_L_Forearm
+    400020: Bip001_L_Hand
+    400022: Bip001_L_HorseLink
+    400024: Bip001_L_Thigh
+    400026: Bip001_L_UpperArm
+    400028: Bip001_Neck
+    400030: Bip001_Pelvis
+    400032: Bip001_Ponytail1
+    400034: Bip001_R_Calf
+    400036: Bip001_R_Clavicle
+    400038: Bip001_R_Finger0
+    400040: Bip001_R_Foot
+    400042: Bip001_R_Forearm
+    400044: Bip001_R_Hand
+    400046: Bip001_R_HorseLink
+    400048: Bip001_R_Thigh
+    400050: Bip001_R_UpperArm
+    400052: Bip001_Spine
+    400054: Bip001_Spine1
+    400056: Bip001_Tail
+    400058: Bip001_Tail1
+    400060: Bip001_Tail2
+    400062: Bip001_Tail3
+    400064: Bone_Ear_L_01
+    400066: Bone_Ear_R_01
+    400068: Bone_Tongue_01
+    400070: Bone_Tongue_02
+    400072: Camera
+    400074: Cap_1
+    400076: Cap_1_2
+    400078: Cap_1_3
+    400080: Floor
+    400082: FLOOR___BACKGROUND
+    400084: Front_Of_Softbox
+    400086: Front_Of_Softbox_2
+    400088: FX_Bottom
+    400090: FX_Cetner
+    400092: FX_Hand_L
+    400094: FX_Hand_R
+    400096: FX_Top
+    400098: Kitty
+    400100: //RootNode
+    400102: Kitty_SKEL
+    400104: L_Eyeild_U_Bone
+    400106: Light
+    400108: Light_2
+    400110: Light_3
+    400112: Light_Vector
+    400114: OverHead_Softbox
+    400116: Plane
+    400118: R_Eyeild_U_Bone
+    400120: Render
+    400122: Softbox
+    400124: Softbox_1
+    400126: Softbox_2
+    400128: Softbox_Assembly
+    400130: Softbox_Assembly_2
+    400132: Softbox_Assembly_3
+    2000000: Camera
+    2300000: Cap_1
+    2300002: Cap_1_2
+    2300004: Cap_1_3
+    2300006: Front_Of_Softbox
+    2300008: Front_Of_Softbox_2
+    2300010: Plane
+    2300012: Softbox_2
+    2300014: Softbox_Assembly
+    2300016: Softbox_Assembly_2
+    2300018: Softbox_Assembly_3
+    3300000: Cap_1
+    3300002: Cap_1_2
+    3300004: Cap_1_3
+    3300006: Front_Of_Softbox
+    3300008: Front_Of_Softbox_2
+    3300010: Plane
+    3300012: Softbox_2
+    3300014: Softbox_Assembly
+    3300016: Softbox_Assembly_2
+    3300018: Softbox_Assembly_3
+    4300000: 0000_Kitty_SKEL
+    4300002: 0001_Kitty_SKEL
+    4300004: Front_Of_Softbox
+    4300006: Softbox_Assembly
+    4300008: Cap_1
+    4300010: Front_Of_Softbox_2
+    4300012: Softbox_Assembly_2
+    4300014: Cap_1_2
+    4300016: Softbox_2
+    4300018: Softbox_Assembly_3
+    4300020: Cap_1_3
+    4300022: Plane
+    9500000: //RootNode
+    10800000: Light
+    10800002: Light_2
+    10800004: Light_3
+    13700000: 0000_Kitty_SKEL
+    13700002: 0001_Kitty_SKEL
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 83f85757c5f928748b24d3926cfbf655, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitty_001_MI
+    second: {fileID: 2100000, guid: aaf1b80481caa044f9a008d297d74923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 0719eb8772677c44189eda3237e778f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Softbox Texture
+    second: {fileID: 2100000, guid: 9b05832f0f3d3764eb0b1aaebc8beddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backround
+    second: {fileID: 2100000, guid: 3400ca3f1f9d3ba419aa0105fb98d949, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

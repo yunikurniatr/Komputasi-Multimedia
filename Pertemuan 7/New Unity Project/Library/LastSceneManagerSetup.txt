@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/User/Downloads/Black Table v2/Black Table/Assets/Black Table.unity
+  isLoaded: 1
+  isActive: 1
