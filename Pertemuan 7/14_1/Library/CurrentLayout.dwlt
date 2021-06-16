@@ -388,7 +388,7 @@ MonoBehaviour:
     m_KeySerializationHelper:
     - {fileID: 1107514497373153858, guid: 32cd915da680dd04aaaff28207b343a2, type: 2}
     m_ValueSerializationHelper:
-    - {x: 407.2, y: 185.8}
+    - {x: 393.2, y: 175.8}
   m_PreviewAnimator: {fileID: 0}
   m_AnimatorController: {fileID: 0}
   m_BreadCrumbs: []
@@ -784,9 +784,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.000025391048, y: 0.5307203, z: -0.0012798101}
+    m_Target: {x: -1.2230179, y: 0.5638633, z: 1.1985147}
     speed: 2
-    m_Value: {x: -0.000025391048, y: 0.5307203, z: -0.0012798101}
+    m_Value: {x: -1.2230179, y: 0.5638633, z: 1.1985147}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:

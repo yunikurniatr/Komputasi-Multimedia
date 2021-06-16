@@ -71,7 +71,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 392}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 71
+  controlID: 49
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 392}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 70
+  controlID: 108
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -388,9 +388,11 @@ MonoBehaviour:
     m_KeySerializationHelper:
     - {fileID: 110734566, guid: f733304d84cddb04388f30591bc2eb84, type: 2}
     - {fileID: 110732098, guid: f733304d84cddb04388f30591bc2eb84, type: 2}
+    - {fileID: 110795854, guid: f733304d84cddb04388f30591bc2eb84, type: 2}
     m_ValueSerializationHelper:
     - {x: 378.59998, y: 140.6}
-    - {x: 420.6, y: 146.8}
+    - {x: 406.6, y: 157.8}
+    - {x: 768.1, y: 104.79999}
   m_PreviewAnimator: {fileID: 0}
   m_AnimatorController: {fileID: 0}
   m_BreadCrumbs: []
@@ -481,7 +483,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -588,8 +590,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 54
-  m_LastProjectPath: E:\COOLYEAH\TI 3D\2\Komputasi Multemd\New folder\Komputasi-Multimedia\Pertemuan
-    7\14_5
+  m_LastProjectPath: E:\COOLYEAH\TI 3D\2\Komputasi Multemd\New folder\Komputasi-Multimedia\Pertemuan14\14_5
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -857,7 +858,7 @@ MonoBehaviour:
     height: 614
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e82a0000
+    m_SelectedIDs: fc2a0000
     m_LastClickedID: 0
     m_ExpandedIDs: a6fbffff00000000
     m_RenameOverlay:
